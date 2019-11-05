@@ -1,0 +1,14 @@
+body {
+ text-align: center;
+ font-family: Arial;
+}
+
+a:hover {
+ background-color: blue;
+ color: white;
+}
+
+a:active {
+ background-color: lightpink;
+ color: white;
+}
